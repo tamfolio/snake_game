@@ -1,8 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Aboreto&display=swap');
 body {
-    background-color: rgb(44, 53, 53);
+    background-color: #273d4b;
     text-align: center;
     font-family: 'Aboreto', cursive;
+    height: 100vh;
+}
+
+.logo {
+    width: 300px;
+    height: 50px;
+    margin: 20px auto;
 }
 
 
