@@ -76,7 +76,8 @@ body {
 
 .scoreBoard {
     border-radius: 10px;
-    border: solid 5px #68e768;
+    margin-top: 10px;
+    border: solid 3px #68e768;
     color: white;
     background-color: #0c1021;
     display: inline-block;
